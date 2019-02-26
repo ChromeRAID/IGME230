@@ -1,0 +1,37 @@
+# Survive
+A post-apocalyptic maze survival game
+
+You are the last human remaining in a world now infested with zombies. You are not a fighter. In order to surive, you must evade zombies and collect resources. Complete levels within the alloted time to survive. Collect resources for bonus effects. Don't get hit by zombies.
+
+# Survive
+Proposal
+
+## I. High Concept
+Survive is a maze survival game, where the player must survive a maze filled with zombies.
+## II. Genre
+Survive is a casual maze game with strategic elements.
+## III. Platform
+Survive is meant for web browsers on PC.
+## IV. Story
+Your character is the last human alive in a zombie apocalypse. To survive, you flees zombies and collects resources to gain points. The mood should be slightly eerie, since it takes place in a zombie apocalypse, but still have elements of excitement and adventure.
+## V. Aesthetics
+The graphics style will be done 8-bit style to keep the game within scope. The sound will be done in a similar style, retro with a slight horror feel. There will be a sound effect for picking up items (scoring), getting attacked by zombies, and progression. Menus will have simple sound effects for button presses. The music will be slight, but noticeable and speeds up when the player is about to lose.
+## VI. Gameplay
+The player will be able to move around with a keyboard using W,A,S,D. They need to be aware of the obstacles on the map as they try to navigate through the maze. They also will need to assess whether its worth it to continue to the next maze, or to try to gain more points. Gaining more points may involve them travelling out of the way to the end. 
+## VII. About the Developer
+My name is Kesavan Shanmugasundaram, a 2nd year Game Design and Development major. I have skills and interests in 2D animation and asset production and AI development. I have experience in project management, 3D animation and asset production, and game audio. I frequently use Adobe Photoshop and Unity.
+
+# Survive
+Documentation
+
+## Process
+The current website for Survive is completed. It includes the design document, concept images, and responsive design.
+##Notes
+All content in the design document was filled out and demonstrates the gameplay, art, and sound direction of the game. Concept art was used to illustrate what the game will look and feel like. The character art is original, the rest of the image sources are linked below. The color scheme was generated using <a href="https://coolors.co/"> coolors.co</a>. Upon the in-class critique, these colors were lightened up to make the site more readable. The site uses responsive design, and reorganizes elements to fit better on the screen. Graphics were altered using Adobe Photoshop.
+## Sources
+https://www.dafont.com/blood-lust.font" -BloodLust font
+http://www.stickpng.com/img/holidays/halloween/zombie-footer" -Zombie hand image
+https://rosettacode.org/wiki/Maze_generation" -Maze Concept image
+https://icons-for-free.com/icon-dessert_donut_food_sweet_icon_1760351/" -Donut icon
+https://www.w3schools.com/" -w3school tutorials and reference
+
